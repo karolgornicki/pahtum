@@ -6,4 +6,4 @@ Introduction
 
 This is a welcome message!
 
-University website: http://www.york.ac.uk
+University website: .. _University of York: http://www.york.ac.uk
